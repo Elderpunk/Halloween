@@ -4,14 +4,22 @@
 
 /* Tipografía */
 @font-face {
-    font-family: "";
-    src: url("") format("woof2"),
-         url("") format("woof");
+    font-family: "evil_highway";
+    src: url("../font/evil_highway.woff") format("woff"),
+         url("../font/evil_highway.woff2") format("woff2");
 }
+
 
 /* ******************************** */
 
 /* Colores */
 
+
 /* ******************************** */
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
 
